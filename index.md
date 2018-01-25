@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cody Otterbine's Github Page
 
 You can use the [editor on GitHub](https://github.com/DauntlessDash/Personal-Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
